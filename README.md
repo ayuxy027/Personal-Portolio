@@ -1,5 +1,5 @@
-# Personal-Portolio
-This is my first project dated to 22 sept 2023 
+# Personal Portfolio
+This is my first project dated back to 22 Sept 2023 
 
-before --- 
-after  --- 🔜
+
+Currently --- https://portfolio-ayush027.vercel.app/
